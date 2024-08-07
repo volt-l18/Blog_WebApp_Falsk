@@ -7,13 +7,13 @@ posts = [
         'author' : "khushal",
         'title' : "first post",
         'content' : "my first post",
-        'date_of_posted' : "feb 18, 2004"
+        'date_posted' : "feb 18, 2004"
     },
     {
         'author' : "khushal",
         'title' : "second post",
         'content' : "my second post",
-        'date_of_posted' : "feb 18, 2004"
+        'date_posted' : "feb 18, 2004"
     }
 ]
 
