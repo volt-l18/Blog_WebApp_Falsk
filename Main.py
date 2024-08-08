@@ -4,16 +4,16 @@ app = Flask(__name__)
 
 posts = [
     {
-        'author' : "khushal",
-        'title' : "first post",
-        'content' : "my first post",
-        'date_posted' : "feb 18, 2004"
+        'author' : "Khushal",
+        'title' : "First post",
+        'content' : "My first post",
+        'date_posted' : "Feb 18, 2004"
     },
     {
-        'author' : "khushal",
-        'title' : "second post",
-        'content' : "my second post",
-        'date_posted' : "feb 18, 2004"
+        'author' : "Khushal",
+        'title' : "Second post",
+        'content' : "My second post",
+        'date_posted' : "Feb 18, 2004"
     }
 ]
 
