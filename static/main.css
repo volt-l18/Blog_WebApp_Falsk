@@ -22,7 +22,7 @@ h6 {
 }
 
 .site-header .navbar-nav .nav-link:hover {
-    color: #ffffff;
+    color: #ea738d;
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -32,7 +32,7 @@ h6 {
 .content-section {
     background: #f1f1f2;
     padding: 10px 20px;
-    border: 1px solid #408ec6;
+    border: 2px solid #408ec6;
     border-radius: 3px;
     margin-bottom: 20px;
 }
