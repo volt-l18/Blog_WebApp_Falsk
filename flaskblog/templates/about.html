@@ -1,4 +1,32 @@
-{% extends "layout.html" %} 
-{% block content %}
-    <h1>About</h1>
-{% endblock  content %}
+{% extends "layout.html" %} {% block content %}
+<h1>About</h1>
+<p>
+    I'm Volt_L18. I built this blog because I was hooked on Flask and Python,
+    and wanted to share my insights with others! 🚀
+</p>
+<p>
+    I'm passionate about Computer Science and Development i normally do Game
+    Devlopment in Godot and mechine learning with numpy.
+</p>
+<p>
+    This site allows me to combine my love of python and help folks explore new ways to
+    learn.
+</p>
+<p>
+    Let me know if you have any topics you want to explore or questions about
+    anything on the blog! 😊
+</p>
+<h4>My socials :-</h4>
+<div>
+    <a class="pt-4" href="https://x.com/NeekhraKhushal" target="_blank">
+        <img class="rounded-circle article-img" src="{{ url_for('static' , filename = "Twitter.jpg") }}" />
+    </a>
+    <a class="pt-4" href="https://www.linkedin.com/in/khushal-neekhra-8ba53924b/" target="_blank">
+        <img class="rounded-circle article-img" src="{{ url_for('static' , filename = "Linkedin.png") }}" />
+    </a>
+    <a class="pt-4" href="https://github.com/volt-l18" target="_blank">
+        <img class="rounded-circle article-img" src="{{ url_for('static' , filename = "Github.png") }}" />
+    </a>
+</div>
+
+<p>{% endblock content %}</p>
