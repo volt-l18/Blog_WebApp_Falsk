@@ -5,7 +5,7 @@
 <hr>
 
 ## About the project:
-This is a Bloging web site created completely in flask has its own db to mentain user data and privacy
+This is a Bloging web site created completely in flask has its own db to mentain user data and privacy with our implemented one way 16-bit hashing you password with be safe and private
 <br>
 <hr>
 
@@ -28,7 +28,7 @@ export FLASK_APP=Run.py && flask run
 <br>
 <hr>
 
-##Database Management:
+## Database Management:
 
 The database can be directly managed with the python interpreter:
 first you have to push app context
