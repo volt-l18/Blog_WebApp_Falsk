@@ -1,6 +1,4 @@
-<div align="center">
 # FlaskBlog
-</div>
 <br>
 <hr>
 
