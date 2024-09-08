@@ -1,6 +1,4 @@
 # FlaskBlog
-<br>
-<hr>
 
 ## About the project:
 This is a Bloging web site created completely in flask has its own db to mentain user data and privacy with our implemented one way 16-bit hashing you password with be safe and private
