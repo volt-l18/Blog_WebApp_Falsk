@@ -1,4 +1,0 @@
-{
-	"builds":[{ "src": "Run.py, "use": "@vercel/python" }]
-	"routes":[{ "src": "/(.*)", "dest":"Rin.py" }]
-}
