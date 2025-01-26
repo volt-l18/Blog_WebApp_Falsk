@@ -10,7 +10,7 @@ Make sure you have python installed after that we make a virtual enviorment and 
 ```
 python -m venv env
 source ./env/bin/activate
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 
 To intialize the server you can run (with gunicorn):
