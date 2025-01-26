@@ -8,7 +8,9 @@ This is a Bloging web site created completely in flask has its own db to mentain
 ## setup:
 Make sure you have python installed after that we make a virtual enviorment and install the requirements
 ```
-python -m venv env && python -r requirements.txt
+python -m venv env
+source ./env/bin/activate
+python -r requirements.txt
 ```
 
 To intialize the server you can run (with gunicorn):
